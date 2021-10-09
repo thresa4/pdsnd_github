@@ -6,6 +6,12 @@ CITY_DATA = {'Chicago': 'chicago.csv',
              'New York City': 'new_york_city.csv',
              'Washington': 'washington.csv'}
 
+def finishing_up_my_course():
+    print('prepared by Gimbo Imelda Thresa')
+    print('programing for Data Science')
+    print('Bikeshare project 3')
+    print('Udacity')
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
